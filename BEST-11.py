@@ -410,10 +410,10 @@ print('''
                                                                                           
 ===================================================
 
-        BANGLADESH BEST-11 HACKERS 
-        	OWNER- BBH Teɑm 
-                Devoloped By: Abu Raihan
-       Version : 1.1.7
+        BANGLADESH BEST-11 HACKERS  
+	OWNER- BBH TEAM   '''
+'''     Devoloped Abu Raihan
+          Version : 1.1.0
 
 ====================================================''')
 usern='''BANGLADESH BEST-11 HACKERS'''
